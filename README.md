@@ -12,7 +12,7 @@ Another purpose is to refactor the analysis sheet to perform the required analys
 After analyzing the stock performacne of companies over the years 2017 & 2018, we can notice that almost all green energy companies (with the exception of RUN) had a much better performance in 2017 than in 2018. It is also obvious that the preferred comapny DQ lost more than 60% of its value in 2018, which means that it is not a good option for investment.
 
 
-
+<img width="235" alt="2017" src="https://user-images.githubusercontent.com/79733383/111095640-46499680-8514-11eb-87e4-30ab3709b543.PNG">
 
 <img width="233" alt="2018" src="https://user-images.githubusercontent.com/79733383/111095670-56fa0c80-8514-11eb-8f8e-d4cc3df5b4b5.PNG">
 
@@ -32,3 +32,6 @@ After testing the time elapsed in each scenario, we realized that the refactorin
 <img width="302" alt="2018 refactored" src="https://user-images.githubusercontent.com/79733383/111097075-34b5be00-8517-11eb-983d-3c21fc64b36c.PNG">
 
 ## Summary
+After running the code both originally and after refactoring, we can conclude that refactoring a code has a great advantage whne it comes to saving the processing power and the elapsed time runnung a specific code. But we can also see that refactoring a code is a very time consuming process on its own. This means that while it can enhance the code performance, it may overall consume more time if this code is not supposed to be used for different scenarios. If we are writing a code for a one time use, refactoring it may take twice as much time to finish the task, which is not efficient. Whereas if we are writing a code that will be used multiple times under different variables, it makes more sense to spent more time refactoring it rather than changing it everytime we use it.
+
+For our analysis, we can see that after we refactored the code, it makes it easier for the financer to use this code for other stocks in the future, and he will only have to change the ticker string in the beginig of the code & some minor changes within the code. If, however, he wants to use this code for this analysis only, refactoring it would not be very beneficial.
