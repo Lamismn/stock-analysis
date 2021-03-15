@@ -10,7 +10,9 @@ Another purpose is to refactor the analysis sheet to perform the required analys
 ## Results
 ### Stock Analysis results
 After analyzing the stock performacne of companies over the years 2017 & 2018, we can notice that almost all green energy companies (with the exception of RUN) had a much better performance in 2017 than in 2018. It is also obvious that the preferred comapny DQ lost more than 60% of its value in 2018, which means that it is not a good option for investment.
-<img width="235" alt="2017" src="https://user-images.githubusercontent.com/79733383/111095640-46499680-8514-11eb-87e4-30ab3709b543.PNG">
+
+
+
 
 <img width="233" alt="2018" src="https://user-images.githubusercontent.com/79733383/111095670-56fa0c80-8514-11eb-8f8e-d4cc3df5b4b5.PNG">
 
@@ -29,3 +31,4 @@ After testing the time elapsed in each scenario, we realized that the refactorin
 <img width="296" alt="2018 original" src="https://user-images.githubusercontent.com/79733383/111097065-2ff10a00-8517-11eb-916b-b9334d4404fd.PNG">
 <img width="302" alt="2018 refactored" src="https://user-images.githubusercontent.com/79733383/111097075-34b5be00-8517-11eb-983d-3c21fc64b36c.PNG">
 
+## Summary
